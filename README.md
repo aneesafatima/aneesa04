@@ -1,5 +1,5 @@
 <h2> Hi, I’m Aneesa, a code artisan. </h2>
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+<!-- **`Digital Craftsman (Developer/Filmmaker/Creator)`** -->
 <br>I am passionate about sculpting Digital Universe with Creativity and Precision.
 </br>
 <h3>🧰 Languages and Tools</h3>
