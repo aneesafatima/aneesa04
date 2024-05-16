@@ -14,6 +14,14 @@
 <!--<h3>📊 Stats</h3>
 ![Aneesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aneesa04&show_icons=true&theme=material-palenight) --->
 
+
+
+<p align="center">
+    <a href="https://github.com/aneesa04">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aneesa04&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+    </a>
+</p>
+
 <!---
 aneesa04/aneesa04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
