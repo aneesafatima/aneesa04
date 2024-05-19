@@ -1,28 +1,40 @@
-<h2> Hi, I’m Aneesa, a code artisan. </h2>
-<!-- **`Digital Craftsman (Developer/Filmmaker/Creator)`** -->
-<br>I am passionate about sculpting Digital Universe with Creativity and Precision.
-</br>
-<h3>🧰 Languages and Tools</h3>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+# Hi, I'm Aneesa 👋
+
+ I'm a 19 year old code artisan who loves to explore new technologies and share knowledge with the community.
+
+## 🔗 Links
+
+- 🌐 [Hashnode Blog](https://codewithaneesa.hashnode.dev/)
+- 📸 [Instagram](https://instagram.com/_aneesa.04)
+- ✉️ [Email Me](mailto:aneesafatima238@gmail.com)
+
+## 🔥 Top Languages & Tools
+
+### Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneesa04&show_icons=true&theme=default)
+
+## 🌟 Fun Facts
+
+- 🖥️ I never knew I wanted to code until I tried it by accident and fell in love with it.
+- 🌱 Currently learning MERN stack.
+- 🎨 I love creating digital art in my free time.
 
 
-<!--<h3>📊 Stats</h3>
-![Aneesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aneesa04&show_icons=true&theme=material-palenight) --->
+---
 
-
-
-<!--[<p align="center">
-    <a href="https://github.com/aneesa04">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aneesa04&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
-    </a>
-</p>](url)--->
-
-<!---
-aneesa04/aneesa04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
