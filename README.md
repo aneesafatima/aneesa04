@@ -32,7 +32,7 @@
 
 ## 🌟 Fun Facts
 
-- 🖥️ I never knew I wanted to code until I tried it by accident and fell in love with it.
+- 🖥️ code was gibberish to me until a year ago.
 - 🌱 Currently learning MERN stack.
 - 🎨 I love creating digital art in my free time.
 
