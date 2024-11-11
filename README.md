@@ -38,7 +38,7 @@ I'm a 19-year-old code artisan who loves to explore new technologies and share k
 ## 🌟 Fun Facts
 
 - 🖥️ Code was gibberish to me until a year ago.
-- 🌱 Currently learning MERN stack.
+- 🌱 Currently working on React Native.
 - 🎨 I love creating digital art in my free time.
 
 ---
