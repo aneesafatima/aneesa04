@@ -1,7 +1,6 @@
-
 # Hi, I'm Aneesa 👋
 
- I'm a 19 year old code artisan who loves to explore new technologies and share knowledge with the community.
+I'm a 19-year-old code artisan who loves to explore new technologies and share knowledge with the community.
 
 ## 🔗 Links
 
@@ -13,6 +12,7 @@
 
 ### Front-end
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +24,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-
 ### Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -34,14 +33,13 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneesa04&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneesafatima&show_icons=true&theme=default)
 
 ## 🌟 Fun Facts
 
-- 🖥️ code was gibberish to me until a year ago.
+- 🖥️ Code was gibberish to me until a year ago.
 - 🌱 Currently learning MERN stack.
 - 🎨 I love creating digital art in my free time.
-
 
 ---
 
