@@ -1,6 +1,6 @@
 # Hi, I'm Aneesa 👋
 
-I'm a 19-year-old code artisan who loves to explore new technologies and share knowledge with the community.
+I'm a 20-year-old code artisan who loves to explore new technologies and share knowledge with the community.
 
 ## 🔗 Links
 
